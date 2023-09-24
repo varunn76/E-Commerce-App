@@ -1,8 +1,6 @@
-# React + Vite
+E-commerce app build using React, Material UI, Redux Tookit, Vite & FirebaseAuth
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![home1](https://github.com/varunn76/E-Commerce-App/assets/72183609/694046be-e9c0-4cbc-b61e-2a6471c7547f)
+![home2](https://github.com/varunn76/E-Commerce-App/assets/72183609/2a1d2783-e747-4c1f-ac28-f8b68bcb4de7)
+![hom3](https://github.com/varunn76/E-Commerce-App/assets/72183609/dc705841-15ce-45d7-be59-fd2a3b6ebe1c)
+![home4](https://github.com/varunn76/E-Commerce-App/assets/72183609/81adcbf3-ee5e-4341-b1f5-4e2f84e93ae2)
